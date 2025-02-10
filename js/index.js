@@ -1,9 +1,9 @@
-console.log("hello");
+console.log("hellow world");
+
 const person = "saugat";
 console.log(person);
 
-let person1 = "unique";
-console.log(person1);
+const user = prompt("what is your name");
 
-var person2 = "sandip";
-console.log(person2);
+const greeter = "Welcome back saugat its good to see you" + user;
+alert(greeter);
