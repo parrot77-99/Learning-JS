@@ -27,21 +27,29 @@
 //     alert("invalid number");
 // }
 
-const grade = +prompt("Write your percent");
+// const grade = +prompt("Write your percent");
 
-switch (true) {
-  case grade >= 80:
-    alert("distinction");
-    break;
-  case grade >= 70 && grade < 80:
-    alert("first division");
-    break;
-  case grade >= 60 && grade < 70:
-    alert("Second division");
-    break;
-  case grade < 60:
-    alert("fail");
-    break;
-  default:
-    alert("invalid input");
-}
+// switch (true) {
+//   case grade >= 80:
+//     alert("distinction");
+//     break;
+//   case grade >= 70 && grade < 80:
+//     alert("first division");
+//     break;
+//   case grade >= 60 && grade < 70:
+//     alert("Second division");
+//     break;
+//   case grade < 60:
+//     alert("fail");
+//     break;
+//   default:
+//     alert("invalid input");
+// }
+
+console.log("hello world");
+const person = "saugat chand";
+console.log(person);
+
+const name = prompt("enter a name");
+const greeter = "welcome saugat how are you";
+alert(greeter);
