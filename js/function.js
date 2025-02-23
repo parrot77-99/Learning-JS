@@ -144,3 +144,6 @@ const volume = ({ length = 1, breadth = 1, height = 1 }) =>
   length * breadth * height;
 
 console.log(volume({ length: 5, breadth: 6, height: 7 }));
+
+//callback function
+const taxCal = ()
