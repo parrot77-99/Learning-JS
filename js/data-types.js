@@ -47,3 +47,6 @@ const result = num1 / num2;
 alert(`the result of division between ${num1} and ${num2} is ${result}`);
 
 console.log(typeof num1);
+
+
+
