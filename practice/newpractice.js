@@ -1,5 +1,7 @@
 console.log("hello");
 
+//Variables
+
 // const person = "Saugat";
 // console.log(person);
 
@@ -9,16 +11,18 @@ console.log("hello");
 // var person2 = "raktim";
 // console.log(person2);
 
-const name = "saugat";
-console.log(name);
+// const name = "saugat";
+// console.log(name);
 
-var person = "ram"; //variable declare
-var person = "hari"; //override
-console.log(person);
+// var person = "ram"; //variable declare
+// var person = "hari"; //override
+// console.log(person);
 
-let school = "rkp";
-school = "ghi";
-console.log(school);
+// let school = "rkp";
+// school = "ghi";
+// console.log(school);
+
+//Interactions
 
 // alert("hello world");
 
@@ -45,6 +49,13 @@ console.log(school);
 // const greeter = "Welcome back," + user;
 // alert(greeter);
 
-//String literal
-const username = prompt("what is your name");
-alert(`Welcome back, ${username}`);
+// //String literal
+// const username = prompt("what is your name");
+// alert(`Welcome back, ${username}`);
+
+// const person = "Mafia";
+// console.log(person);
+
+const gender = confirm("Are you male");
+console.log(gender);
+
